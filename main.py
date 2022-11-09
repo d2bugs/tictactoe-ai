@@ -3,7 +3,6 @@ import sys
 import pygame
 import random
 import numpy as np
-import time
 from const import *
 
 #  pygame setup
