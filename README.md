@@ -1,11 +1,13 @@
 # TICTACTOE AI
 
-## Picture
-![snapshot1](img/tictactoe.png)
 
 ## Description
 
 This is an AI that plays tic-tac-toe. It's a simple game, but it's a good way to learn about AI. The AI uses a minimax algorithm to find the best move. The minimax algorithm is a recursive algorithm that evaluates each possible move and returns the best one.
+
+## Picture
+![snapshot1](img/tictactoe.png)
+
 
 
 ### Prerequisites
